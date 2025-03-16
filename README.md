@@ -275,7 +275,8 @@ func main() {
 
 ## Contributing
 
-Contributions are welcome! If you have ideas for improvements, bug fixes, or new features, please feel free to open an issue or submit a pull request on GitHub.
+Contributions are welcome! If you have ideas for improvements, bug fixes, or new features, please feel free to open an issue or submit a pull request on GitHub.、
+Missing support for C++, Java, Python... Create Pull Requests to add supports for differ languages
 
 ## License
 
